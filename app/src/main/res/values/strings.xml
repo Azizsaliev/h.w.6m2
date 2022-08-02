@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="wellCom">Добро пожаловать!</string>
+    <string name="as">Выполните вход или зарегистрируйтесь.</string>
+    <string name="inter">Вход</string>
+    <string name="to_home">Войти</string>
+    <string name="email">Введите вашу почту</string>
+    <string name="password">Введите пароль</string>
+    <string name="forget_password">Забыли пароль?</string>
+</resources>
